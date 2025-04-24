@@ -43,9 +43,12 @@ O dataset contém mais de 13.000 registros de imóveis para aluguel e venda no e
 - Valor de aluguel
 
 **Ações previstas:**
-- Análise exploratória para entender a distribuição dos preços por região e tipo de imóvel.
-- Identificação de outliers e dados inconsistentes.
-- Visualizações para entender correlações entre variáveis.
+- Carregamento do dataset bruto.
+- Visão geral do schema (colunas, tipos, valores únicos).
+- Valores ausentes, outliers.
+- Distribuição dos Dados.
+- Correlações entre features e target (price).
+- Gráficos iniciais: histogramas, boxplots, heatmaps.
 
 ---
 
